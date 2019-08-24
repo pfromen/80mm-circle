@@ -12,21 +12,21 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 595,
-                    "y": 51,
+                    "x": 532,
+                    "y": 245,
                     "uniqueID": 317501,
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 80
+                            "ioValue": 50
                         }
                     ]
                 },
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 656,
-                    "y": 121,
+                    "x": 710,
+                    "y": 257,
                     "uniqueID": 503381,
                     "ioValues": []
                 },
