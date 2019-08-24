@@ -12,8 +12,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 332,
-                    "y": 123,
+                    "x": 587,
+                    "y": 44,
                     "uniqueID": 317501,
                     "ioValues": [
                         {
@@ -25,9 +25,9 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 488,
-                    "y": 201,
-                    "uniqueID": 522288,
+                    "x": 656,
+                    "y": 121,
+                    "uniqueID": 503381,
                     "ioValues": []
                 },
                 {
@@ -43,11 +43,11 @@
                     "ap1Name": "geometry",
                     "ap2Name": "height",
                     "ap1ID": 317501,
-                    "ap2ID": 522288
+                    "ap2ID": 503381
                 }
             ],
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": 2
+    "circleSegmentSize": 10
 }
