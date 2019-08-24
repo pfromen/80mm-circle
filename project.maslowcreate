@@ -36,21 +36,18 @@
                     ]
                 },
                 {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 804,
-                    "y": 176,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 980,
-                    "y": 113,
+                    "x": 819,
+                    "y": 107,
                     "uniqueID": 970162,
                     "ioValues": [
                         {
                             "name": "3D shape 478984",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 300203",
                             "ioValue": 10
                         }
                     ],
@@ -66,8 +63,9 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 690309
+                    "ap2Name": "3D shape 478984",
+                    "ap1ID": 690309,
+                    "ap2ID": 970162
                 }
             ],
             "fileTypeVersion": 1
