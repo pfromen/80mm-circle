@@ -23,6 +23,19 @@
                     ]
                 },
                 {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 492,
+                    "y": 120,
+                    "uniqueID": 522288,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1390,
@@ -30,7 +43,9 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                null
+            ],
             "fileTypeVersion": 1
         }
     ],
