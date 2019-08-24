@@ -25,8 +25,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 699,
-                    "y": 150,
+                    "x": 595,
+                    "y": 155,
                     "uniqueID": 690309,
                     "ioValues": [
                         {
@@ -38,9 +38,23 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 892,
-                    "y": 197,
+                    "x": 804,
+                    "y": 176,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 980,
+                    "y": 113,
+                    "uniqueID": 970162,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 478984",
+                            "ioValue": 10
+                        }
+                    ],
+                    "removeCutawayGeometry": true
                 }
             ],
             "allConnectors": [
